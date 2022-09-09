@@ -11,4 +11,4 @@ Step 1： Download the processed dataset from [Baidu Yun](https://pan.baidu.com/
 Step 2: Put them into ./data directories.
 ## Train command
     # Train with NYTaxi
-    python train_OD.py --data=PEMSD4
+    python train_OD.py --data=NYTaxi
